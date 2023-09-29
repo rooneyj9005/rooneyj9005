@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**rooneyj9005/rooneyj9005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- **Troubleshooting** - Extensive experience diagnosing and resolving technical issues related to networks, servers, workstations, applications, printers, etc. Proficient with tools like ping, ipconfig, traceroute, nslookup to isolate problems.
+- **Customer Service** - Excellent communication skills developed through regular interface with customers to understand issues and walk them through solutions. 
+- **Documentation** - Keeps detailed notes on steps taken during troubleshooting to aid in escalating or handing off tickets.
+- **Scripting** - Utilizes PowerShell for automation of tasks like account management, licensing, email administration.
+- **Networking** - Skilled in configuring and troubleshooting switches, routers, firewalls, VPNs, etc. Solid grasp of networking fundamentals including TCP/IP, DNS, DHCP.
+- **Server Administration** - Experience administering services like AD, Exchange, IIS, DNS on both Windows and Linux systems. 
+- **Software Deployment** - Deploys endpoint software utilizing various methods including installers, packaging, and automated deployment tools.
+- **Monitoring/Management** - Leverages tools like Automate and possesses experience with RMM concepts. Maintains and supports these systems.
+- **Security** - Hardens servers, investigates threats, blocks attacks. Knowledgeable on concepts like encryption, firewalls, and social engineering.
+- **Project Work** - Completes defined objectives such as server builds, network implementations, website launches, and software upgrades.
