@@ -1,6 +1,6 @@
 # Skills
 - **Troubleshooting** - Extensive experience diagnosing and resolving technical issues related to networks, servers, workstations, applications, printers, etc. Proficient with tools like ping, ipconfig, traceroute, nslookup to isolate problems.
-- **Customer Service** - Excellent communication skills developed through regular interface with customers to understand issues and walk them through solutions. 
+- **Customer Service** - Excellent communication skills developed through regular interactions with customers to understand issues and walk them through solutions. 
 - **Documentation** - Keeps detailed notes on steps taken during troubleshooting to aid in escalating or handing off tickets.
 - **Scripting** - Utilizes PowerShell for automation of tasks like account management, licensing, email administration.
 - **Networking** - Skilled in configuring and troubleshooting switches, routers, firewalls, VPNs, etc. Solid grasp of networking fundamentals including TCP/IP, DNS, DHCP.
