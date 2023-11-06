@@ -1,11 +1,27 @@
-## Skills
-- **Troubleshooting** - Extensive experience diagnosing and resolving technical issues related to networks, servers, workstations, applications, printers, etc. Proficient with tools like ping, ipconfig, traceroute, nslookup to isolate problems.
-- **Customer Service** - Excellent communication skills developed through regular interactions with customers to understand issues and walk them through solutions.
-- **Documentation** - Keeps detailed notes on steps taken during troubleshooting to aid in escalating or handing off tickets.
-- **Scripting** - Utilizes PowerShell for automation of tasks like account management, licensing, email administration.
-- **Networking** - Skilled in configuring and troubleshooting switches, routers, firewalls, VPNs, etc. Solid grasp of networking fundamentals including TCP/IP, DNS, DHCP.
-- **Server Administration** - Experience administering services like AD, Exchange, IIS, DNS on both Windows and Linux systems.
-- **Software Deployment** - Deploys endpoint software utilizing various methods including installers, packaging, and automated deployment tools.
-- **Monitoring/Management** - Leverages tools like Automate and possesses experience with RMM concepts. Maintains and supports these systems.
-- **Security** - Hardens servers, investigates threats, blocks attacks. Knowledgeable on concepts like encryption, firewalls, and social engineering.
-- **Project Work** - Completes defined objectives such as server builds, network implementations, website launches, and software upgrades.
+## Key Skills
+
+- Troubleshooting: Diagnose and resolve technical issues across diverse environments. Proficient with diagnostic tools and techniques.
+- Customer Service: Excellent communication skills developed through customer interactions. Maintain over 95% satisfaction rate. 
+- Documentation: Take accurate, detailed notes to aid in ticket resolution.
+- Scripting: Utilize PowerShell to automate administrative tasks.
+- Networking: Experience with switches, routers, firewalls, VPNs, TCP/IP, DNS, DHCP.
+
+## Professional Experience 
+**IT Support Specialist** @ Roswell IT Services _(2018–2023)_
+- Provided technical support for 60+ managed service clients across varying industries.
+- Resolved most complex issues escalated from Level 1 technicians. 
+- Migrated clients between M365 tenants with zero downtime.
+- Administered infrastructure including AD, Exchange, DNS, DHCP servers.
+- Created automation scripts to streamline IT management tasks.  
+- Upgraded RMM and PSA platforms to latest versions.
+- Served as a valued source of institutional knowledge.
+
+**Owner** @ Fontaine Hosting _(2016–2021)_
+- Managed subscriptions, support tickets, technical issues for web hosting clients.  
+- Provided customer service and hands-on server troubleshooting.
+- Gained experience with client management and business operations.
+
+## Education
+- Diploma in IT & Telecoms
+- New College Lanarkshire
+- Calderglen High School
