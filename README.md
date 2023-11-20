@@ -20,6 +20,6 @@
 - Handled customer onboarding, support, billing, and accounts automatically in a self-serve manner.
 - Experience with WHM/cPanel/WHMCS and other common tools in the hosting industry.
 ## Education
-**QA Modern Apprenticeships** - Diploma in IT & Telecommunications _(2018)_ 
-**New College Lanarkshire** - Enterprise & Employability _(2016-2017)_
-**Calderglen High School** - _(2012-2015)_
+- **QA Modern Apprenticeships** - Diploma in IT & Telecommunications _(2018)_ 
+- **New College Lanarkshire** - Enterprise & Employability _(2016-2017)_
+- **Calderglen High School** - _(2012-2015)_
