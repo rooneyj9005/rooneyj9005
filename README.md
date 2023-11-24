@@ -4,10 +4,10 @@
 - Virtualization: VMware vSphere, Microsoft Hyper-V, KVM.
 - Networking: Ethernet & Fibre, Routing & BGP, TCP/IP, DHCP, DNS (DoH & DoT), VPN's (IPSec, WireGuard and OpenVPN), SIP and Firewalling concepts like Zero-Trust and Zoning.
 - Monitoring: RMM, syslog, SNMP.
+- Automation: Infra-as-Code, PowerShell, Bash, Shell, Batch
 **Exposure:**
 - Cloud: AWS, Azure 
 - Containers: Docker/Podman
-- Automation: Infra-as-Code, PowerShell, Bash, Shell, Batch
 ## Experience
 - Trusted point-of-contact and valued source of institutional/domain-specific knowledge.
 - Diagnosed and resolved technical issues across 100+ SMB and enterprise clients.
